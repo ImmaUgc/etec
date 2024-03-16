@@ -1,0 +1,56 @@
+:root {
+    background: rgb(140, 182, 140);
+    color: rgb(255, 243, 252);
+    user-select: none;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    border: solid 1px rgb(255, 209, 240);
+    border-radius: 5px;
+}
+h2{
+    font-size: 50px;
+    text-align: left;
+    border: solid 1px rgb(255, 209, 240);
+    border-radius: 5px;
+}
+.LinkMaior{
+    font-size: 25px;
+    /* color: aqua; */
+}
+img{
+    border-radius: 10px;  
+    border: 2px hidden;
+    width: 350px;
+    height: 250px;
+}
+img:hover {
+}
+.txt{
+    border: solid 3px rgb(255, 209, 240);
+    border-radius: 5px;
+}
+.ImgTxt{
+    width: 50px;
+    height: 50px;
+}
+ol{
+    list-style-type: circle;
+}
+.list-1{
+    list-style-type: circle;
+}
+.importante {
+    transition: all 0.5s;
+    border-radius: 5px;
+}
+.importante:hover{
+    background: rgb(236, 178, 212);
+}
+
+mark {
+    color: aliceblue;
+    background-color: rgb(236, 178, 212);
+    border-radius: 4px;
+}
